@@ -1,1 +1,2 @@
-# database
+# Database
+mysql & redis
